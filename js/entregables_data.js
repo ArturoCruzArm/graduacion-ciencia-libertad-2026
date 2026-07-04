@@ -72,14 +72,14 @@ var ENTREGABLES = {
       "DSC_9695Nigromante4x6.webp"
     ]
   },
-  "6x8": {
+  "Grupales": {
     "base": "ciencia y libertad/6x8/",
     "fotos": [
       "cyl6.webp",
       "cylm.webp"
     ]
   },
-  "Pen Drive": {
+  "Personal Docente": {
     "base": "ciencia y libertad/pd/",
     "fotos": [
       "DSC_9623seundaria 3c4x6.webp",
